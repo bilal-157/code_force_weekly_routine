@@ -19,3 +19,4 @@
 | 🔸  | Magnets             | Implementation   | [344A](https://codeforces.com/problemset/problem/344/A) |
 | 🔸  | Vanya and Fence     | Math, Conditions | [677A](https://codeforces.com/problemset/problem/677/A) |
 | 🔸  | Stones on the Table | Strings          | [266A](https://codeforces.com/problemset/problem/266/A) |
+
